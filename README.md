@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML projects, open-source contributions, LLM applications, RAG systems, and AI agents.**
 
-- 🤝 I’m looking for help with **🤝People who share my passion for AI education, technology, and building innovative solutions to real-world problems..**
+- 🤝 I’m looking for help with **People who share my passion for AI education, technology, and building innovative solutions to real-world problems..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nagadarshan-ai](https://github.com/nagadarshan-ai)
 
