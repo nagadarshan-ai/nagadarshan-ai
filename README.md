@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **nagadarshan.ai@gmail.com**
 
-- 📄 Know about my experiences [Software Engineer passionate about Artificial Intelligence and emerging technologies. I'm exploring LLMs, RAG, and AI agents while building practical AI projects. I also share daily AI updates on Instagram and enjoy helping others understand and leverage technology.](Software Engineer passionate about Artificial Intelligence and emerging technologies. I'm exploring LLMs, RAG, and AI agents while building practical AI projects. I also share daily AI updates on Instagram and enjoy helping others understand and leverage technology.)
+- 📄 Know about my experiences 
+Software Engineer passionate about Artificial Intelligence and emerging technologies. I'm exploring LLMs, RAG, and AI agents while building practical AI projects. I also share daily AI updates on Instagram and enjoy helping others understand and leverage technology.
 
 - ⚡ Fun fact **My code works perfectly… until I show it to someone.**
 
